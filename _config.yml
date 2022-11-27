@@ -31,7 +31,7 @@ twitter_username: virgostyx
 github_username:  virgostyx
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
